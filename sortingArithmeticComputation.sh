@@ -7,3 +7,6 @@ echo "The given three numbers:$a $b $c"
 
 compute1=$(($a+$b*$c))
 echo "$a+$b*$c:$compute1"
+
+compute2=$(($a*$b+$c))
+echo "$a*$b+$c:$compute2"
