@@ -13,3 +13,6 @@ echo "$a*$b+$c:$compute2"
 
 compute3=$(($c+$a/$b))
 echo "$c+$a/$b:$compute3"
+
+compute4=$(($a%$b+$c))
+echo "$a%$b+$c:$compute4"
