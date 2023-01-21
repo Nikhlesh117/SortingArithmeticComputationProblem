@@ -1,4 +1,4 @@
-echo "Welcome to Sorting Arithmetic i program!!!"
+echo "Welcome to Sorting Arithmetic computation program!!!"
 
 read -p "Enter first number: " a
 read -p "Enter second number: " b
